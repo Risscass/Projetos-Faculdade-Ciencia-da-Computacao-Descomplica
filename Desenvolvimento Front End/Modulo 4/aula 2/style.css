@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(252, 221, 184);
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.container {
+    background-color: rgb(230, 228, 73);
+    padding: 10px;
+    margin: auto;
+    width: 80%;
+    box-shadow: 0 0 10px black;
+}
+
+.box {
+    background-color: rgb(164, 173, 67);
+    padding: 10px;
+    margin: 20px 140px;
+    border: 2px solid rgb(128, 130, 53);
+    border-radius: 5px;
+}

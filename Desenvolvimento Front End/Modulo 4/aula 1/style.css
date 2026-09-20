@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(232, 226, 241);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(84, 64, 91);
+    color: rgb(225, 177, 236);
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    color: rgb(1, 37, 78);
+    font-size: 15px;
+    line-height: 1;
+    margin: 10px 10px;
+}
+
+.paragrafo-destaque {
+    background-color: rgb(109, 172, 206);
+    border-left: 5px solid rgb(4, 0, 74);
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+footer {
+    background-color: rgb(129, 86, 144);
+}
